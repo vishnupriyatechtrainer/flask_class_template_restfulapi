@@ -1,0 +1,120 @@
+flask - 
+
+flask - html pages using bootstrap 
+Restful Api 
+
+flask app with mysql server 
+
+----------------------------------
+
+xampp server in your system
+
+pip install flask - open command pip install flask
+
+web framework - bootstrap
+
+size - 12
+
+6 6
+4 4 4 
+3 3 3 3
+
+Restful api
+
+backend - server
+
+mysql
+
+wamp server - windows apache mysql php
+lamp server
+mamp server
+xamp server - xos
+
+mysqlworkbench 
+sqlalchemy 
+postgresql
+
+restful api
+
+api - application program interface
+f.e - b.e 
+api key
+
+imdb api key - json
+methods -
+
+GET - read data from server
+POST - create new data , stores the data in server
+PUT - update the existing data 
+DELETE - delete the existing data
+
+------------------------------------
+
+mysql - queries
+CREATE DATABASE databasename;
+CREATE TABLE table_name 
+
+CRUD - create read update delete
+
+
+go to google - xampp server
+
+install it in a folder
+
+open xamp control panel - start apache mysql
+
+open browser - localhost dashboard
+
+go to server folder - htdocs
+
+http://localhost/phpmyadmin/
+
+
+mindteck - db
+
+employeeform - table 
+clientform
+
+form.html - data from user
+db.py
+
+request  - f.e to b.e
+response - b.e to f.e
+
+
+
+
+
+
+
+CREATE DATABASE flask_db1;
+USE flask_db1;
+CREATE TABLE users (
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(100),
+email VARCHAR(100)
+);
+
+json - [] + {}
+f.e to b.e
+stringify()
+b.e to f.e 
+parse()
+
+flask project - home about services technology contact - bootstrap
+flask project - contact form with server
+
+pythondebugging
+logging
+
+unittest pytest
+
+-----
+
+employee management 
+
+
+
+
+
+
